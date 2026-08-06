@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/sumeyyeisen/sumeyye-portfolio')
+    fetch('https://api.github.com/repos/sumeyyeisen/sumeyyeisen.github.io')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/sumeyyeisen/sumeyye-portfolio">
+        <a href="https://github.com/sumeyyeisen/sumeyyeisen.github.io">
           <div>Sümeyye İsen tarafından geliştirildi</div>
 
           {githubInfo.stars && githubInfo.forks && (

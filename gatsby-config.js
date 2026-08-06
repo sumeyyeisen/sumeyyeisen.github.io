@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sümeyye İsen',
     description:
       'Sümeyye İsen - Software Engineer Portfolio',
-    siteUrl: 'https://sumeyyeisen.com', // TODO: kendi domainin ile değiştir (No trailing slash allowed!)
+    siteUrl: 'https://sumeyyeisen.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '', // Twitter/X hesabın varsa buraya @kullaniciadi olarak ekle
   },
