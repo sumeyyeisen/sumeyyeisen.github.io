@@ -32,4 +32,4 @@ npm run build
 
 ## Lisans
 
-MIT — orijinal şablon Brittany Chiang'a (2018) aittir, bu proje o lisans koşulları altında değiştirilerek kullanılmıştır.
+MIT - orijinal şablon Brittany Chiang'a (2018) aittir, bu proje o lisans koşulları altında değiştirilerek kullanılmıştır.
